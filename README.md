@@ -10,7 +10,7 @@ A complete Natural Language Processing (NLP) project that demonstrates the end-t
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project trains a Transformer-based model to classify text into one of two categories:
 
