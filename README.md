@@ -1,4 +1,4 @@
-# 🍔 Food vs Not Food Text Classification using DistilBERT
+#  Food vs Not Food Text Classification using DistilBERT
 
 A complete Natural Language Processing (NLP) project that demonstrates the end-to-end workflow of:
 
@@ -30,7 +30,7 @@ This project trains a Transformer-based model to classify text into one of two c
 
 ---
 
-## 🏗️ Project Pipeline
+##  Project Pipeline
 
 ```text
 LLM Generated Synthetic Data
@@ -56,7 +56,7 @@ Gradio Demo Deployment
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 food_not_food_distil_bert_uncase_fine_tuned/
@@ -68,7 +68,7 @@ food_not_food_distil_bert_uncase_fine_tuned/
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The training dataset was synthetically generated using Large Language Models to create diverse examples of food-related and non-food-related text.
 
@@ -82,7 +82,7 @@ https://github.com/ashutosh-kedar/food_not_food_distil_bert_uncase_fine_tuned/bl
 
 ---
 
-## 🤖 Model
+## Model
 
 The model is based on:
 
@@ -96,7 +96,7 @@ https://huggingface.co/ashutosh-kedar/finetuned_distil_bert_food_not_food_classi
 
 ---
 
-## 🎯 Interactive Demo
+## Interactive Demo
 
 Try the model directly in your browser:
 
@@ -108,7 +108,7 @@ The Gradio application allows users to enter any sentence and instantly receive 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * PyTorch
@@ -122,7 +122,7 @@ The Gradio application allows users to enter any sentence and instantly receive 
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Install Dependencies
 
@@ -157,7 +157,7 @@ print(result)
 
 ---
 
-## 📈 Learning Objectives
+## Learning Objectives
 
 This project demonstrates:
 
@@ -170,7 +170,7 @@ This project demonstrates:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Expand dataset size
 * Add more food categories
@@ -181,7 +181,7 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 ### Ashutosh Kedar
 
@@ -191,10 +191,11 @@ Passionate about Machine Learning, Deep Learning, Computer Vision, and Natural L
 
 * GitHub: https://github.com/ashutosh-kedar
 * Hugging Face: https://huggingface.co/ashutosh-kedar
+* Linkedin : https://www.linkedin.com/in/ashutosh-kedar/
 
 ---
 
-## ⭐ If You Found This Project Useful
+##  If You Found This Project Useful
 
 Please consider giving the repository a star and trying out the Hugging Face demo.
 
